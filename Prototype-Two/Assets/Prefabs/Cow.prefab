@@ -1939,6 +1939,7 @@ GameObject:
   - component: {fileID: 8433038124952425467}
   - component: {fileID: 8433038125127771850}
   - component: {fileID: 964287053807096810}
+  - component: {fileID: -1351922420925247477}
   m_Layer: 0
   m_Name: Cow
   m_TagString: Untagged
@@ -2005,6 +2006,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 79f057639404e4ee4b9f5e8e96851a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-1351922420925247477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8433038124959817435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f02b8b98d69046dd9ebd6505369db63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &8433038124959824675
